@@ -1,0 +1,7 @@
+C:\rofl\Lab17\Lab17_2\bin\Debug\Lab17_2.exe
+C:\rofl\Lab17\Lab17_2\bin\Debug\Lab17_2.pdb
+C:\rofl\Lab17\Lab17_2\obj\Debug\Lab17_2.csproj.AssemblyReference.cache
+C:\rofl\Lab17\Lab17_2\obj\Debug\Lab17_2.csproj.SuggestedBindingRedirects.cache
+C:\rofl\Lab17\Lab17_2\obj\Debug\Lab17_2.csproj.CoreCompileInputs.cache
+C:\rofl\Lab17\Lab17_2\obj\Debug\Lab17_2.exe
+C:\rofl\Lab17\Lab17_2\obj\Debug\Lab17_2.pdb
